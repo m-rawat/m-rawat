@@ -2,7 +2,6 @@
   
 1. 🔭 I’m currently working on javascript projects.
 2. 🌱 I’m currently learning  Javascript , MERN Stack.
-3. 💬 Feel free to reach me.
-4. ⚡ Like to learn new technologies.
+3. ⚡ Like to learn new technologies.
+4. 💻 Love to code ❤
 
-Programming language - cpp.
