@@ -12,7 +12,7 @@
 - 💻 &nbsp;
 - ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 - ![Sql](https://img.shields.io/badge/-Sql-333333?style=flat&logo=sql)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+- ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -29,7 +29,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="nkedin.com/in/mayank-rawat-554405195/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/rawatmayank1/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="rawatmayank1999@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="nkedin.com/in/mayank-rawat-554405195/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mayank%20Rawat%20-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/rawatmayank1/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Mayank-rawat?style=flat-square&logo=instagram"></a>
+<a href="rawatmayank1999@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rawatmayank1999@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
